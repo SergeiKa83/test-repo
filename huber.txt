@@ -1,0 +1,12 @@
+хьюбер
+тьюки
+max(r-c, 0)
+
+123
+
+bestParas_xgboost[n_row, "meanError"] <<- Metrics::mae(testLabel - y_pred)
+            bestParas_xgboost[n_row, "skewness"] <<- e1071::skewness(testLabel - y_pred)
+
+one more changing
+
+and more
